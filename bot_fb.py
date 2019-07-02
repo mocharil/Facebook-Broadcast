@@ -102,6 +102,6 @@ def main(TOKEN):
 
 
 if __name__ == '__main__':
-    token='732678339:AAHQka9JnFJP1A4J3ZsR9aFoa3N2fWLalAg'
+    token='Your TOKEN telegram bot'
         
     main(token)
